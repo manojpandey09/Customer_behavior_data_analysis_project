@@ -1,7 +1,5 @@
 # Customer_behavior_data_analysis_project
 
-# Customer Shopping Behavior Analysis
-
 ## Project Overview
 This project analyzes customer shopping behavior using transactional retail data to uncover insights about purchasing patterns, customer segments, and product performance.
 
